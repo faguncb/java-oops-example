@@ -1,4 +1,4 @@
-package com.oops.concepts.interfaces;
+package com.example.oop.interfaces;
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
