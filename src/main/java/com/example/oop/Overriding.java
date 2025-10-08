@@ -1,4 +1,4 @@
-package com.example.oop.overriding;
+package com.example.oop;
 
 /**
  * Demonstrates Method Overriding - Child class provides specific implementation

@@ -1,4 +1,4 @@
-package com.example.oop.constructors;
+package com.example.oop.constructor;
 
 /**
  * Demonstrates different types of constructors
