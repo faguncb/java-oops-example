@@ -1,4 +1,4 @@
-package com.example.oop.overriding;
+package com.example.oop;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
